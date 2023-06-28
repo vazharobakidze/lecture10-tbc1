@@ -1,0 +1,17 @@
+@media (max-width:1230px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1190px) {
+    .cardswrapper {
+        justify-content: space-around;
+    }
+}
+
+@media (max-width:100opx) {
+    .textbox h2 {
+        font-size: 50px;
+    }
+}
